@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about code and i will cry
 - 📫 How to reach me via / phone "613-608-9741" / Email "olmes.leon-rivera@mths.ca" 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: codeing is hard
+- ⚡ Fun fact: i like to sew
