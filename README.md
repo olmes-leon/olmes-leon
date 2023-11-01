@@ -2,9 +2,8 @@
 ### well HELLO there 🐪
 My name is Olmes
 my Pronouns are: He/Him
-https://www.canva.com/design/DAFy8ch8F1U/Hwu46BvM3dvCLbtVzcAXvw/edit?utm_content=DAFy8ch8F1U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 reach me via / phone "613-608-9741" / Email "olmes.leon-rivera@mths.ca" 
-
+https://github.com/olmes-leon/olmes-leon/edit/main/README.md
 **olmes-leon/olmes-leon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olmes-leon)](https://github.com/anuraghazra/github-readme-stats)
