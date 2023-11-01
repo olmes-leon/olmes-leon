@@ -4,6 +4,8 @@
 
 Here are some ideas to get you started:
 
+![image](https://github.com/olmes-leon/olmes-leon/assets/144264100/b3b304c0-4f42-43f3-8ca6-2f4ad5ceab45)
+
 - 🔭 I’m currently working on codeing
 - 🌱 I’m currently learning codeing
 - 👯 I’m looking to collaborate on code
