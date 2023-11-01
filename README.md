@@ -4,7 +4,7 @@ My name is Olmes
 my Pronouns are: He/Him
 reach me via / phone "613-608-9741" / Email "olmes.leon-rivera@mths.ca" 
 
-![image](https://github.com/olmes-leon/olmes-leon/assets/144264100/96e19ec8-7080-4697-831e-ecf2cf1195a2)
+![gif](https://github.com/olmes-leon/olmes-leon/assets/144264100/96e19ec8-7080-4697-831e-ecf2cf1195a2)
 
 
 **olmes-leon/olmes-leon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
