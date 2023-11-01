@@ -7,6 +7,11 @@ reach me via / phone "613-608-9741" / Email "olmes.leon-rivera@mths.ca"
 
 
 
+https://github.com/olmes-leon/olmes-leon/assets/144264100/9878ad37-4315-4d02-86c5-6230a8486b8b
+
+
+
+
 **olmes-leon/olmes-leon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olmes-leon)](https://github.com/anuraghazra/github-readme-stats)
