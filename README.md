@@ -1,3 +1,4 @@
+![image](https://github.com/olmes-leon/olmes-leon/assets/144264100/b3b304c0-4f42-43f3-8ca6-2f4ad5ceab45)
 ### Hi there 👋
 
 **olmes-leon/olmes-leon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
