@@ -2,7 +2,6 @@
 ### well HELLO there 🐪
 My name is Olmes
 my Pronouns are: He/Him
-![image](https://github.com/olmes-leon/olmes-leon/assets/144264100/f1151354-8e04-4dc0-a267-7c4252f47122)
 
 reach me via / phone "613-608-9741" / Email "olmes.leon-rivera@mths.ca" 
 
