@@ -4,8 +4,6 @@ My name is Olmes
 my Pronouns are: He/Him
 reach me via / phone "613-608-9741" / Email "olmes.leon-rivera@mths.ca" 
 
-https://github.com/olmes-leon/olmes-leon/assets/144264100/9878ad37-4315-4d02-86c5-6230a8486b8b
-
 - 🔭 I’m currently working on codeing
 - 🌱 I’m currently learning codeing
 - 👯 I’m looking to collaborate on code
