@@ -4,7 +4,8 @@ My name is Olmes
 my Pronouns are: He/Him
 reach me via / phone "613-608-9741" / Email "olmes.leon-rivera@mths.ca" 
 
-https://www.canva.com/design/DAFy8ch8F1U/nVG2O_sywiD_6IcDu2hNtg/watch?utm_content=DAFy8ch8F1U&utm_campaign=designshare&utm_medium=link&utm_source=editor
+![image](https://github.com/olmes-leon/olmes-leon/assets/144264100/96e19ec8-7080-4697-831e-ecf2cf1195a2)
+
 
 **olmes-leon/olmes-leon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
