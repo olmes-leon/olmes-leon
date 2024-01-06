@@ -6,8 +6,8 @@ My name is [Olmes]([url](https://github.com/olmes-leon/olmes-leon/assets/1442641
 my Pronouns are: He/Him
 reach me via / phone "613-608-9741" / Email "olmes.leon-rivera@mths.ca" 
 [
-- 🔭 I’m currently working on codeing
-- 🌱 I’m currently learning codeing
+- 🔭 I’m currently working on coding
+- 🌱 I’m currently learning coding
 - 👯 I’m looking to collaborate on code
-- 🤔 I’m looking for help with codeing
-- 💬 Ask me about code and i will cry
+- 🤔 I’m looking for help with coding
+- 💬 Ask me about code, and I will cry
